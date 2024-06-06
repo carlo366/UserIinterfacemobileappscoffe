@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">JetCoffeeTheme</string>
+    <string name="placeholder_search">Cari kopi pilihanmu</string>
+    <string name="category_all">All</string>
+    <string name="category_americano">Americano</string>
+    <string name="category_cappuccino">Cappuccino</string>
+    <string name="category_espresso">Espresso</string>
+    <string name="category_frappe">Frappe</string>
+    <string name="category_latte">Latte</string>
+    <string name="category_macchiato">Macchiato</string>
+    <string name="category_mocha">Mocha</string>
+    <string name="section_category">Mau Ngopi Apa hari ini</string>
+    <string name="section_favorite_menu">Menu Favorite</string>
+    <string name="section_best_seller_menu">Menu Terlaris</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="title_activity_menudetail">menudetail</string>
+</resources>
